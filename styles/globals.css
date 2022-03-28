@@ -1,0 +1,26 @@
+@font-face {
+  font-family: "Fugue Mono KB";
+  src: url("/fonts/fugue-mono-kb.woff2") format("woff2"),
+    url("/fonts/fugue-mono-kb.woff") format("woff");
+  font-weight: bold;
+  font-style: normal;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: "PT Root UI";
+  src: url("/fonts/root-ui-regular.woff2") format("woff2"),
+    url("/fonts/root-ui-regular.woff") format("woff");
+  font-weight: normal;
+  font-style: normal;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: "PT Root UI";
+  src: url("/fonts/root-ui-bold.woff2") format("woff2"),
+    url("/fonts/root-ui-bold.woff") format("woff");
+  font-weight: bold;
+  font-style: normal;
+  font-display: swap;
+}

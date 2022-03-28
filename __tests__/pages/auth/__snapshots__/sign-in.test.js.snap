@@ -1,0 +1,161 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`SignIn renders correctly 1`] = `
+<div
+  className="ant-row sc-1lg44hx-0 eDlRzQ aa2ebu-0 jZAVXv"
+  style={Object {}}
+>
+  <div
+    className="ant-col ant-col-24"
+    style={Object {}}
+  >
+    <div
+      className="ant-row sc-1lg44hx-0 hEDqYl aa2ebu-1 dejXPJ"
+      style={Object {}}
+    >
+      <div
+        className="ant-col ant-col-24"
+        style={Object {}}
+      >
+        <div
+          className="ant-space ant-space-vertical ant-space-align-center"
+          style={Object {}}
+        >
+          <div
+            className="ant-space-item"
+            style={
+              Object {
+                "marginBottom": 32,
+              }
+            }
+          >
+            <div
+              className="ant-space ant-space-vertical ant-space-align-center"
+              style={Object {}}
+            >
+              <div
+                className="ant-space-item"
+                style={
+                  Object {
+                    "marginBottom": 8,
+                  }
+                }
+              >
+                <div
+                  className="ant-row ant-row-center"
+                  style={Object {}}
+                >
+                  <div
+                    className="ant-col ant-col-24"
+                    style={Object {}}
+                  >
+                    <h2
+                      className="ant-typography"
+                      style={
+                        Object {
+                          "WebkitLineClamp": undefined,
+                        }
+                      }
+                    >
+                      Авторизация
+                    </h2>
+                  </div>
+                </div>
+              </div>
+              <div
+                className="ant-space-item"
+                style={Object {}}
+              >
+                <div
+                  className="ant-row ant-row-center"
+                  style={Object {}}
+                >
+                  <div
+                    className="ant-col ant-col-24 ant-col-md-20 ant-col-lg-16"
+                    style={Object {}}
+                  >
+                    <span
+                      className="ant-typography"
+                      style={
+                        Object {
+                          "WebkitLineClamp": undefined,
+                        }
+                      }
+                    >
+                      Чтобы воспользоваться библиотекой, пожалуйста, авторизуйтесь через почтовый аккаунт КБ Стрелка
+                    </span>
+                  </div>
+                </div>
+              </div>
+            </div>
+          </div>
+          <div
+            className="ant-space-item"
+            style={Object {}}
+          >
+            <div
+              className="ant-row ant-row-center"
+              style={Object {}}
+            >
+              <div
+                className="ant-col ant-col-24"
+                style={Object {}}
+              >
+                <button
+                  className="ant-btn ant-btn-lg"
+                  onClick={[Function]}
+                  type="button"
+                >
+                  <span
+                    className="anticon"
+                    role="img"
+                  >
+                    <svg
+                      aria-hidden="true"
+                      className=""
+                      fill="currentColor"
+                      focusable="false"
+                      height="1em"
+                      viewBox="0 0 48 48"
+                      width="1em"
+                      xmlns="http://www.w3.org/2000/svg"
+                    >
+                      <path
+                        clipRule="evenodd"
+                        d="M41.28 24.4094C41.28 23.133 41.1655 21.9057 40.9527 20.7275H24V27.6903H33.6873C33.27 29.9403 32.0018 31.8466 30.0955 33.123V37.6394H35.9127C39.3164 34.5057 41.28 29.8912 41.28 24.4094Z"
+                        fill="#4285F4"
+                        fillRule="evenodd"
+                      />
+                      <path
+                        clipRule="evenodd"
+                        d="M23.9995 41.9999C28.8595 41.9999 32.9341 40.3881 35.9122 37.639L30.095 33.1226C28.4832 34.2026 26.4213 34.8408 23.9995 34.8408C19.3113 34.8408 15.3432 31.6745 13.9277 27.4199H7.91406V32.0836C10.8759 37.9663 16.9632 41.9999 23.9995 41.9999Z"
+                        fill="#34A853"
+                        fillRule="evenodd"
+                      />
+                      <path
+                        clipRule="evenodd"
+                        d="M13.9282 27.4197C13.5682 26.3397 13.3636 25.186 13.3636 23.9997C13.3636 22.8133 13.5682 21.6597 13.9282 20.5797V15.916H7.91455C6.69545 18.346 6 21.0951 6 23.9997C6 26.9042 6.69545 29.6533 7.91455 32.0833L13.9282 27.4197Z"
+                        fill="#FBBC05"
+                        fillRule="evenodd"
+                      />
+                      <path
+                        clipRule="evenodd"
+                        d="M23.9995 13.1591C26.6422 13.1591 29.015 14.0673 30.8804 15.8509L36.0432 10.6882C32.9259 7.78364 28.8513 6 23.9995 6C16.9632 6 10.8759 10.0336 7.91406 15.9164L13.9277 20.58C15.3432 16.3255 19.3113 13.1591 23.9995 13.1591Z"
+                        fill="#EA4335"
+                        fillRule="evenodd"
+                      />
+                    </svg>
+                  </span>
+                  <span>
+                    Войти с Google
+                  </span>
+                </button>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+</div>
+`;
